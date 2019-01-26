@@ -22,7 +22,13 @@ namespace WordSelectionTool
             this.labelVersion.Text = String.Format("Version {0}", AssemblyVersion);
             this.labelCopyright.Text = AssemblyCopyright;
             this.labelCompanyName.Text = AssemblyCompany;
-            this.textBoxDescription.Text = AssemblyDescription;
+            this.textBoxDescription.Text = AssemblyDescription 
+                + Environment.NewLine 
+                + Environment.NewLine
+                + "In case of any questions and suggestions, please contact us at ericblack@mail.ru"
+                + Environment.NewLine
+                + Environment.NewLine
+                + "В случае возникновения любых вопросов и предложений, пожалуйста, обращайтесь по адресу ericblack@mail.ru";
         }
 
         #region Assembly Attribute Accessors
