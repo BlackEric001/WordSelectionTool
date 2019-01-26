@@ -1,10 +1,10 @@
-# Word Selection Tool
+п»ї# Word Selection Tool
 Add-in for MS Word for group selection of elements in document
 
 ![Screen](images/st_menu.png?raw=true)
 
 In case of any questions and suggestions, please contact us at ericblack@mail.ru.
 
-Надстройка для MS Word для группового выбора элементов в документе
+РќР°РґСЃС‚СЂРѕР№РєР° РґР»СЏ MS Word РґР»СЏ РіСЂСѓРїРїРѕРІРѕРіРѕ РІС‹Р±РѕСЂР° СЌР»РµРјРµРЅС‚РѕРІ РІ РґРѕРєСѓРјРµРЅС‚Рµ
                 
-В случае возникновения любых вопросов и предложений, пожалуйста, обращайтесь по адресу ericblack@mail.ru.
+Р’ СЃР»СѓС‡Р°Рµ РІРѕР·РЅРёРєРЅРѕРІРµРЅРёСЏ Р»СЋР±С‹С… РІРѕРїСЂРѕСЃРѕРІ Рё РїСЂРµРґР»РѕР¶РµРЅРёР№, РїРѕР¶Р°Р»СѓР№СЃС‚Р°, РѕР±СЂР°С‰Р°Р№С‚РµСЃСЊ РїРѕ Р°РґСЂРµСЃСѓ ericblack@mail.ru.
